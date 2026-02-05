@@ -1,0 +1,4 @@
+---
+  # defaults file for webserver
+  
+  nginx_custom_directory: /var/www/webserver

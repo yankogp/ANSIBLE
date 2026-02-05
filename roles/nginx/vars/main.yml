@@ -1,0 +1,7 @@
+
+---
+  vars: 
+    server_name: ubuntu
+    document_root: /var/www/html
+    app_root: html_demo_site-main
+
